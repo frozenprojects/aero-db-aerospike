@@ -1,0 +1,17 @@
+{
+	"name": "aero-db-aerospike",
+	"version": "0.1.0",
+	"description": "Aerospike database client using Promises for Aero.",
+	"repository": "aerojs/aero-db-aerospike",
+	"keywords": [
+		"aero",
+		"db",
+		"database",
+		"aerospike"
+	],
+	"author": {
+		"name": "Eduard Urbach",
+		"email": "e.urbach@gmail.com",
+		"url": "https://blitzprog.org"
+	}
+}
